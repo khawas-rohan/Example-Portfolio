@@ -115,9 +115,9 @@
     .experience-details-container{
         margin: 0;
     }
-    /* .get-about{
-        margin-top: 2.5rem;
-    } */
+    .rubina-photo{
+        height: auto;
+    }
 }
 @media screen and (max-width: 500px){
     .section_text_p2{
