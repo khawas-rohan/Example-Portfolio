@@ -86,7 +86,7 @@
     }
     .section_pic-container{
         width: auto;
-        /* height: 46vw; */
+        height: 46vw;
         justify-content: center;
     }
     .section_text_p2{
