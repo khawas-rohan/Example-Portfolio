@@ -384,3 +384,8 @@ footer p{
 .ex-container{
   width: 50vw;
 }
+.top-picture {
+  border-radius: 100%;
+  width: 50px; /* or any desired size */
+  height: 50px; /* maintain equal width and height for a perfect circle */
+}
